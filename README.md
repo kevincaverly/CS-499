@@ -4,7 +4,7 @@ This repository contains all of the artifacts used to demonstrate my abilities i
 [Data Structures and Algorithms](https://github.com/kevincaverly/CS-499/blob/main/ContactServiceTestEnhanced.java)
 [Databases](https://github.com/kevincaverly/CS-499/tree/main/CS%20340%20Enhanced)
 
-##Professional Self-Assessment
+## Professional Self-Assessment
 Throughout my time at SNHU, I have acquired a range of skills, all of which will be demonstrated below. I will also discuss how I reached the five course outcomes by enhancing previous projects in the following categories: Software design and engineering, Algorithms and data structures, and databases. 
 
 Creating a portfolio containing projects that showcase my abilities is a great tool to share with potential employers. It creates a strong foundation for a potential employer to recognize my abilities and ensure I am fit for the role. My ePortfolio contains three separate projects I have worked on over my educational career with SNHU. These projects are from CS 360, CS 320, and CS 340. They were originally designed as a submission for their given course outcomes, but have since been enhanced to serve as more visually appealing, efficient, and secure applications. As mentioned above, these programs demonstrate my abilities in three categories: Software design and engineering, Algorithms and data structures, and databases, respectively.  
@@ -15,8 +15,9 @@ From the technical side of programming, I have gained lots of experience with de
 
 These three enhancements, when combined, demonstrate the skills and abilities I have gained throughout my time with SNHU. They highlight my ability to design fully-functional software systems, solve problems by applying proper data structures and algorithms, and effectively utilize databases. Provided in my ePortfolio are the original versions of these programs, enabling the viewer to compare the differences and see how far I’ve come in my educational career. 
 
-##Narratives
+## Narratives
 [Software Design Narrative](https://github.com/kevincaverly/CS-499/blob/main/Milestone%20two%20Narrative.docx)
 [Data Structures Narrative](https://github.com/kevincaverly/CS-499/blob/main/4-2%20Milestone%20Narrative.docx)
 [Databases Narrative](https://github.com/kevincaverly/CS-499/blob/main/5-2%20Milestone%20Narrative.docx)
 
+## [Code Review](https://youtu.be/268Bv8P8ykU)
